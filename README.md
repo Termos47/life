@@ -31,3 +31,5 @@ from ai_config.adapter import AIAdapter
 
 adapter = AIAdapter()
 adapter.switch_provider("openai")  # Переключение на OpenAI
+
+5e6y345
